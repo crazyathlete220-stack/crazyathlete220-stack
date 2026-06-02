@@ -18,6 +18,7 @@ tools, but setups that keep running with minimal human effort.
 
 - 🌐 Portfolio: https://crazyathlete220-stack.github.io/ai-portfolio/
 - 📦 npm: https://www.npmjs.com/package/ytmeta
+- ✍️ Zenn: https://zenn.dev/ai_lifehackdays
 - 🐦 X: https://x.com/AI_lifehackdays
 
 ---
