@@ -14,6 +14,7 @@ tools, but setups that keep running with minimal human effort.
   [![npm](https://img.shields.io/npm/v/ytmeta.svg)](https://www.npmjs.com/package/ytmeta)
   `npm i -g ytmeta`
 - **[oldmac-display](https://github.com/crazyathlete220-stack/oldmac-display)** — create a virtual macOS display (CGVirtualDisplay) and reuse an old Mac as a second screen.
+- **[window-border](https://github.com/crazyathlete220-stack/window-border)** — a macOS menu-bar app that outlines every window in a per-app color, so you can tell them apart at a glance.
 
 ### 🔗 Links
 
