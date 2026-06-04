@@ -13,6 +13,7 @@ tools, but setups that keep running with minimal human effort.
 - **[ytmeta](https://github.com/crazyathlete220-stack/ytmeta)** — a dry-run-first CLI for bulk-managing YouTube video metadata.
   [![npm](https://img.shields.io/npm/v/ytmeta.svg)](https://www.npmjs.com/package/ytmeta)
   `npm i -g ytmeta`
+- **[oldmac-display](https://github.com/crazyathlete220-stack/oldmac-display)** — create a virtual macOS display (CGVirtualDisplay) and reuse an old Mac as a second screen.
 
 ### 🔗 Links
 
